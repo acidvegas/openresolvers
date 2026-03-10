@@ -1,0 +1,44 @@
+Provider: Cloudflare DNS
+Primary IPv4: 1.1.1.1
+Secondary IPv4: 1.0.0.1
+DNS Hostnames: one.one.one.one, one.one.one.one.cloudflare-dns.com
+ 
+Provider: Quad9
+Primary IPv4: 9.9.9.9
+Secondary IPv4: 149.112.112.112
+DNS Hostnames: dns.quad9.net, dns9.quad9.net
+ 
+Provider: Mullvad DNS
+Primary IPv4: 194.242.2.2
+Secondary IPv4: 194.242.2.3
+DNS Hostnames: dns.mullvad.net
+ 
+Provider: AdGuard DNS
+Primary IPv4: 94.140.14.14
+Secondary IPv4: 94.140.15.15
+DNS Hostnames: dns.adguard-dns.com, unfiltered.adguard-dns.com
+ 
+Provider: ControlD (by Windscribe)
+Primary IPv4: 76.76.2.0
+Secondary IPv4: 76.76.10.0
+DNS Hostnames: freedns.controld.com
+ 
+Provider: NextDNS
+Primary IPv4: 45.90.28.0
+Secondary IPv4: 45.90.30.0
+DNS Hostnames: dns.nextdns.io
+ 
+Provider: DNS.Watch
+Primary IPv4: 84.200.69.80
+Secondary IPv4: 84.200.70.40
+DNS Hostnames: resolver1.dns.watch, resolver2.dns.watch
+ 
+Provider: LibreDNS
+Primary IPv4: 116.202.176.26
+Secondary IPv4: 116.203.115.192
+DNS Hostnames: dot.libredns.gr, doh.libredns.gr
+ 
+Provider: ZeroDNS
+Primary IPv4: 192.3.41.119
+Secondary IPv4: 107.175.183.114
+DNS Hostnames: ns1.zerodns.org, ns2.zerodns.org
