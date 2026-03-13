@@ -39,6 +39,6 @@ Secondary IPv4: 116.203.115.192
 DNS Hostnames: dot.libredns.gr, doh.libredns.gr
  
 Provider: ZeroDNS
-Primary IPv4: 192.3.41.119
-Secondary IPv4: 107.175.183.114
+Primary IPv4: 209.141.42.240
+Secondary IPv4: 209.141.58.87
 DNS Hostnames: ns1.zerodns.org, ns2.zerodns.org
